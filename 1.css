@@ -1,0 +1,128 @@
+.topnav{
+    width: 100vw;
+    background-color:#F5F5F5;
+    margin:0;
+    padding:0;
+    
+    overflow:hidden;
+
+
+}
+*{
+    margin:0px;
+}
+.topnav a{
+
+    padding:1rem;
+    color:black;
+    text-decoration:none;
+    font-size:20px;
+    float:left;
+    display:flex;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.topnav a:hover{
+    color:black;
+    background-color:#ddd;
+}
+.active{
+    
+}
+.home{
+    background-color: black;
+}
+.yoga{
+    color:#00FF00 ;
+    width:100%;
+    font-size: 100px;
+    text-align:left;
+    padding-left:40px;
+    padding-top: 10px;
+    font-family: 'Noto Sans JP', sans-serif;
+    
+}
+.para1{
+    color:white;
+    padding:40px 40px;
+    font-family: 'Roboto', sans-serif;
+}
+#Asanas{
+    background-color:;
+}
+.column{
+    float:left;
+    width:33.33%;
+    padding-top:5px;
+    text-align:center;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+    
+}
+#img1{
+    width:100%;
+    height:250px;
+    padding-bottom:10px;
+}
+#img2{
+    width:100%;
+    height:250px;
+    padding-bottom:10px;
+
+}
+#img3{
+    width:70%;
+    height:250px;
+    padding-bottom:10px;
+}
+.tada{
+    font-family: 'Roboto', sans-serif;
+    color:#663399;
+    font-size:40px;
+}
+.column1{
+    text-align:center;
+    padding-top:50px;
+    height:100px;
+    font-size:40px;
+    width:25%;
+    float:left;
+}
+.row1:after {
+    content: "";
+    display: table;
+    clear: both;
+    
+}
+
+.fa {
+    
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 40%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+
+#facebook{
+    float:right;
+}
+#img4{
+    width:70%;
+    height:400px;
+    padding:40px;
+    margin:auto;
+    padding-bottom:10px;
+}
+footer div div a:visite{
+    color:blue;
+}
